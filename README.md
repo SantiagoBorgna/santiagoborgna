@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Santiago Borgna</h1>
-<h3 align="center">A passionate backend and frontend developer from Argentina</h3>
+<h3 align="center">A passionate backend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
