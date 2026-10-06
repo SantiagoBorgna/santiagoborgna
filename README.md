@@ -1,16 +1,23 @@
-<h1 align="center">Hello, I'm Santiago Borgna</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+# Santiago Borgna
 
-- 🌱 I’m currently learning **Software Engineering**
+**Backend Software Engineer** based in Córdoba, Argentina. I build business systems with Java and Spring Boot and take them from client requirements to production.
 
-- 💬 Ask me about **Java, Nodejs, Python, Django and SQL. HTML, CSS, and Javascript,**
+## Selected work
 
-- 📫 How to reach me **santiborgna5@gmail.com**
+- **El Arca Home – E-commerce** · Online store for a retail client, live in production. Spring Boot REST API, MySQL, JavaScript. [Code](https://github.com/SantiagoBorgna/TiendaWebArca)
+- **El Arca Home – Inventory** · Multi-branch inventory and sales desktop app, in production. Java Swing, MySQL. [Code](https://github.com/SantiagoBorgna/Manejo-de-inventario)
+- **BIO HUB** · Multi-tenant compliance tracking platform for an environmental consultancy. Spring Boot, JWT, React, Docker. Code is private.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santiago borgna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago borgna" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Java · Spring Boot · Spring Security (JWT) · REST APIs · MySQL · PostgreSQL · Flyway · Python · React · Docker · Git
+
+## Now
+
+- Technical and Functional Consultant at GiGa Global
+- B.Sc. in Software Engineering at Universidad Siglo 21
+- Looking for remote backend roles
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/santiago-borgna/) · [Portfolio](https://santiagoborgna.github.io/Portfolio/) · santiborgna5@gmail.com
